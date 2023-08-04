@@ -10,6 +10,7 @@ module.exports = {
         secondary: "#3F2305",
         third: "#F2EAD3",
         forth: "#F5F5F5",
+        trans:"rgba(0, 0, 0, 0.5)",
       }
     },
   },
